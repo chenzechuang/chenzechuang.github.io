@@ -61,11 +61,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 12d3109a66c883dbe186                            #生成的clientID
-  clientSecret: ad6a44d48468bb339e51bff7f11c012cca9d24fd    #生成的clientSecret
+  clientID: 62655f7af4c7647406b7                            #生成的clientID
+  clientSecret: 643070d14166a5c55f2d840dfe9740559fffdf44    #生成的clientSecret
   repo: finderCZC.github.io    #仓库名称
-  owner: chenzechuang    #github用户名
-  admin: chenzechuang
+  owner: finderCZC    #github用户名
+  admin: finderCZC
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
