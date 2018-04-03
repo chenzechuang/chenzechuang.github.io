@@ -65,7 +65,7 @@ gitalk:
   clientSecret: 643070d14166a5c55f2d840dfe9740559fffdf44    #生成的clientSecret
   repo: finderCZC.github.io    #仓库名称
   owner: finderCZC    #github用户名
-  admin: ['finderCZC']
+  admin: [finderCZC]
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
