@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: 18813290016@163.com
 description: "just do it."
 keyword: "CZC, CZC Blog, 陈泽创的博客, chenzechuang, 陈泽创, Javascript"
-url: "https://finderCZC.github.io/"          # your host, for absolute URL
+url: "http://czc525.com/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/finderCZC/finderCZC.github.io.git" # you code repository
 
