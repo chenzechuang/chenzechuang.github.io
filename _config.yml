@@ -5,9 +5,9 @@ header-img: img/post-bg-desk.jpg
 email: 18813290016@163.com
 description: "just do it."
 keyword: "CZC, CZC Blog, 陈泽创的博客, chenzechuang, 陈泽创, Javascript"
-url: "https://finderCZC.github.io"          # your host, for absolute URL
+url: "https://chenzechuang.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/finderCZC/finderCZC.github.io.git" # you code repository
+github_repo: "https://github.com/chenzechuang/chenzechuang.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -20,7 +20,7 @@ sidebar-avatar: /img/avatar_m.jpg      # use absolute URL, seeing it's used in b
 RSS: false
 # weibo_username:     
 zhihu_username:     
-github_username:    finderCZC
+github_username:    chenzechuang
 #facebook_username:  
 #jianshu_username:   
 #twitter_username:   
@@ -63,9 +63,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 12d3109a66c883dbe186                            #生成的clientID
   clientSecret: ad6a44d48468bb339e51bff7f11c012cca9d24fd    #生成的clientSecret
-  repo: finderCZC.github.io    #仓库名称
-  owner: finderCZC    #github用户名
-  admin: finderCZC
+  repo: chenzechuang.github.io    #仓库名称
+  owner: chenzechuang    #github用户名
+  admin: chenzechuang
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
