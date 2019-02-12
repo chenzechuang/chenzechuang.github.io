@@ -1,8 +1,8 @@
 /*  Back Top Button  */
 #back-top {
   position: fixed;
-  bottom: 30px;
-  margin-left: 1040px;
+  bottom: 2rem;
+  right: 2rem;
 }
 #back-top a {
   width: 54px;
